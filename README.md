@@ -5,7 +5,10 @@ manager
 项目演示：
 
 
-https://github.com/pigsgod/gomyrouguelike/assets/44769072/c8b24e10-9622-4f46-a990-8eb63bd1e654
+
+https://github.com/pigsgod/gomyrouguelike/assets/44769072/d8580301-df82-46d1-8c7e-de3b325fa0d1
+
+
 
 项目说明
 1
